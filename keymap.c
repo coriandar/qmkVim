@@ -1,4 +1,4 @@
-/* qmk compile -kb gmmk/pro/rev1/ansi -km qmkVim*/
+/* qmk compile -kb gmmk/pro/rev1/ansi -km qmkVim */
 #include QMK_KEYBOARD_H
 
 // clang-format off
